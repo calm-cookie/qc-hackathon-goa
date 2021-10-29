@@ -1,6 +1,6 @@
 # Team 35
 
-Hi, I am Uday Singla from BITS Pilani. This is my solution for QC Hackathon organized at BITS, Goa.
+Hi, I am Uday Singla from BITS Pilani. This is my solution for QC Hackathon organized at BITS, Goa. I won the second position in the hackathon.
 
 # Quantum-Computing-Hackathon
 This is the repository for QC hackathon organized at BITS, Goa.
